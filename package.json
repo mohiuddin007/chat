@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "Chat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevelopermohiuddin/chat.git"
+  },
+  "author": "Mohiuddin Mazumder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdevelopermohiuddin/chat/issues"
+  },
+  "homepage": "https://github.com/webdevelopermohiuddin/chat#readme"
+}
