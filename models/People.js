@@ -13,7 +13,7 @@ const peopleSchema = mongoose.Schema(
       trim: true,
       lowercase: true,
     },
-    mobiles: {
+    mobile: {
       type: String,
       required: true,
     },
@@ -35,6 +35,6 @@ const peopleSchema = mongoose.Schema(
   }
 );
 
-const People = mongoose.model('People', peopleSchema);
+const People = mongoose.model("People", peopleSchema);
 
 module.exports = People;
